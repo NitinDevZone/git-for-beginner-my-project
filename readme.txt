@@ -1,4 +1,4 @@
 Welcome to git learning
 
-Author: Nitin
+Author: Nitin middle
 Twitter: @nitinsingh
