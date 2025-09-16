@@ -1,4 +1,4 @@
-Welcome to git learning
+Welcome to the "Git for beginners" MyProject!
 
 Author: Nitin middle Singh
 Twitter: @nitinsingh
